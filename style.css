@@ -1,0 +1,834 @@
+*{
+    padding-left: 0%;
+    margin: 0;
+    
+}
+
+.furni{
+color: green;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: initial;
+font-size: x-large;
+margin-top: 0rem;
+position: absolute;
+}
+
+.home{
+ 
+ margin-left: 28rem;
+ position: absolute;
+ margin-top: 0.5rem;
+ text-decoration: none;
+
+}
+
+.about{
+ 
+ margin-left: 36rem;
+ position: absolute;
+ margin-top: 0.5rem;
+ text-decoration: none;
+}
+
+.features{
+ margin-left: 44rem;
+ position: absolute;
+ margin-top:0.5rem;
+ text-decoration: none;
+}
+
+.contact{
+ margin-top:0.5rem;
+ margin-left: 53rem;
+ position: absolute;
+ text-decoration: none;
+}
+
+.search{
+margin-top: 0.4rem;
+margin-left: 61rem;
+}
+
+.now{
+margin-top: 0.4rem;
+margin-left: 70rem;
+height: 21px;
+width: 23px;
+position: absolute;
+
+}
+
+.furniture{
+width: 62rem ;
+height: 31rem;
+margin-left: 12rem;
+margin-top:36px;
+border-radius: 10px;
+}
+#shweta{
+height: 235px;
+width: 300px;
+margin-left: 2rem;
+color: aliceblue;
+backdrop-filter: blur(15px);
+
+
+
+}
+.name{
+margin-top: -23rem;
+color: rgba(131, 43, 43, 0.911);
+margin-left: 3rem;
+}
+ 
+.fame{
+    color:black;
+    margin: 3rem;
+    margin-top: 0rem;
+    margin-left: 3rem;
+}
+.ag1{
+    margin-top: 20rem;
+margin-left: 40rem;
+}
+
+.box{
+    height: 300px;
+    width: 900px;
+}
+
+.microsoft1{
+height: 20px;
+
+}
+.trusted{
+    background-color: rgba(241, 235, 235, 0.836);
+    width: 100%;
+    height: 140px;
+    margin-top: 15rem;
+    position: absolute;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.companies{
+margin-left: 31rem;
+margin-top: 1rem;
+}
+
+.microsoft{
+    margin-top: 17rem ;
+    margin-left: 4rem ;
+    height: 7rem;
+    width: 12rem;
+    position: absolute;
+}
+
+.spotify{
+    margin-top: 18.5rem ;
+    margin-left: 22rem ;
+    height: 4rem;
+    width: 6rem;
+    position: absolute;
+
+
+}
+
+.netflix{
+     margin-top: 18rem ;
+    margin-left: 36rem ;
+    height: 5rem;
+    width: 8rem;
+    position: absolute;
+
+
+}
+
+.instagram{
+     margin-top: 19rem ;
+    margin-left: 52rem ;
+    height: 4rem;
+    width: 4rem;
+    position: absolute;
+
+
+}
+
+.twitter{
+     margin-top: 19rem ;
+    margin-left: 65rem ;
+    height: 4rem;
+    width: 4rem;
+    position: absolute;
+
+
+}
+
+.deals{
+margin-top: 28rem;
+margin-left: 4rem;
+color: rgba(17, 100, 17, 0.89);
+position: absolute;
+
+
+}
+.online{
+    margin-left: 4rem;
+    margin-top: 35rem;
+    position: absolute;
+
+
+}
+
+.cashing{
+margin-top: 31rem;
+margin-left: 26rem;
+position: absolute;
+
+}
+.retail{
+    margin-top: 35rem;
+margin-left: 26rem;
+position: absolute;
+
+
+}
+
+.day{
+margin-top: 31.5rem;
+margin-left: 44rem;
+position: absolute;
+
+}
+
+.shop{
+margin-top: 35rem;
+margin-left: 44rem;
+position: absolute;
+
+}
+
+.term{
+margin-top: 31.5rem;
+margin-left: 61rem;
+position: absolute;
+
+
+}
+
+.for{
+margin-top: 35rem;
+margin-left: 61rem;
+position: absolute;
+
+
+
+}
+
+.about1{
+    margin-top: 53rem;
+    margin-left: 4rem;
+    color: rgba(17, 100, 17, 0.89);
+    position: absolute;
+    
+
+
+}
+.AT{
+    margin-top: 57rem;
+    margin-left: 4rem;
+    position: absolute;
+    
+
+
+}
+.one{
+    margin-top: 68rem;
+    margin-left: 4rem;
+    position: absolute;
+    color:rgba(17, 100, 17, 0.89); ;
+
+}
+.are{
+margin-top:71rem;
+    margin-left: 4rem;
+    position: absolute;
+
+}
+
+.who{
+    margin-top:74rem;
+    margin-left: 4rem;
+    position: absolute;
+
+}
+.two{
+    margin-top: 68rem;
+    margin-left: 26rem;
+    position: absolute;
+    color: rgba(17, 100, 17, 0.89);;
+    
+
+
+}
+.what{
+margin-top:71rem;
+    margin-left: 26rem;
+    position: absolute;
+    
+
+
+}
+
+
+.give{
+    margin-top:74rem;
+    position: absolute;
+    margin-left: 26rem;
+}
+
+.three{
+    margin-top: 83rem;
+    margin-left: 4rem;
+    position: absolute;
+    color:rgba(17, 100, 17, 0.89); ;    
+
+}
+.help{
+margin-top:86rem;
+    margin-left: 4rem;
+    position: absolute;
+
+}
+
+.our{
+    margin-top:89rem;
+    margin-left: 4rem;
+    position: absolute;
+
+}
+.four{
+    margin-top: 83rem;
+    margin-left: 26rem;
+    position: absolute;
+    color: rgba(17, 100, 17, 0.89);;
+    
+
+
+}
+.story{
+margin-top:86rem;
+    margin-left: 26rem;
+    position: absolute;
+    
+
+
+}
+
+
+.to{
+    margin-top:89rem;
+    position: absolute;
+    margin-left: 26rem;
+}
+
+.spoon{
+    position: absolute;
+    margin-left: 47rem;
+    margin-top: 69rem;
+    height: 12rem;
+    width: 15rem;
+    border-radius: 18px;
+
+}
+.spoon:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.flower{
+position: absolute;
+    margin-left: 64rem;
+    margin-top: 69rem;
+    height: 12rem;
+    width: 15rem;
+    border-radius: 18px;
+}
+.flower:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.abhyas{
+    position: absolute;
+    margin-left: 64rem;
+    margin-top: 84rem;
+    height: 12rem;
+    width: 15rem;
+    border-radius: 18px;
+}
+.abhyas:hover{
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+
+}
+.tv{
+position: absolute;
+    margin-left: 47rem;
+    margin-top: 84rem;
+    height: 12rem;
+    width: 15rem;
+    border-radius: 18px;
+
+}
+.tv:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.product{
+    margin-top: 101rem;
+    margin-left: 4rem;
+    color: rgba(17, 100, 17, 0.89);
+    position: absolute;
+    
+}
+.ALL{
+margin-top: 101rem;
+margin-left: 27rem;
+position: absolute;
+color: black;
+}
+.BED{
+margin-top: 101rem;
+margin-left: 32rem;
+position: absolute;
+color: black;
+}
+.SOFA{
+margin-top: 101rem;
+margin-left: 37rem;
+position: absolute;
+color: black;
+}
+
+.CHAIR{
+margin-top: 101rem;
+margin-left:42rem;
+position: absolute;
+color: black;
+}
+
+.LIGHT{
+margin-top: 101rem;
+margin-left:47rem;
+position: absolute;
+color: black;
+}
+
+.see{
+margin-top: 101rem;
+margin-left:56rem;
+position: absolute;
+color: black;
+
+
+}
+.lamp{
+background-color:rgba(14, 95, 14, 0.945);
+position: absolute;
+margin-left: 14rem;
+height: 13rem;
+width: 12rem;
+margin-top: 109rem;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.lamp:hover{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.base{
+color:aliceblue;
+margin-top: 1rem;
+margin-left: 32px;
+
+}
+
+.rupees{
+    color:aliceblue;
+margin-top: 1rem;
+margin-left: 32px;
+}
+
+.dot{
+background-color:rgba(255, 239, 150, 0.644);
+position: absolute;
+margin-left: 32rem;
+height: 13rem;
+width: 12rem;
+margin-top: 130rem;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.dot:hover{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.rv{
+color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+
+}
+
+.cash2{
+    color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 2rem;
+}
+
+.jj{
+background-color:rgba(255, 239, 150, 0.644);
+position: absolute;
+margin-left: 50rem;
+height: 13rem;
+width: 12rem;
+margin-top: 130rem;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.jj:hover{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.tl{
+color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+
+}
+
+.aaish{
+    color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+}
+
+.micro{
+background-color:rgba(255, 239, 150, 0.644);
+position: absolute;
+margin-left: 14rem;
+height: 13rem;
+width: 12rem;
+margin-top: 130rem;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.micro:hover{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.para{
+color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+
+}
+
+.medical{
+    color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+}
+
+.vikas{
+background-color:rgba(255, 239, 150, 0.644);
+position: absolute;
+margin-left: 32rem;
+height: 13rem;
+width: 12rem;
+margin-top: 109rem;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+}
+.vikas:hover{
+box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.kt{
+color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+
+}
+
+.satyanash{
+    color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+}
+
+.jk{
+background-color:rgba(255, 239, 150, 0.644);
+position: absolute;
+margin-left: 50rem;
+height: 13rem;
+width: 12rem;
+margin-top: 109rem;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.jk:hover{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.bara{
+color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+
+}
+
+.ring{
+    color:rgb(0, 0, 0);
+margin-top: 1rem;
+margin-left: 32px;
+}
+.boxing{
+background-color:rgba(238, 223, 138, 0.699);
+position: absolute;
+margin-left: 14rem;
+height: 30rem;
+width: 50rem;
+margin-top: 150rem;
+border-radius: 10px;
+
+}
+
+.client{
+color: green;
+position: absolute;
+margin-top: 1rem;
+margin-left: 17rem;
+
+}
+.tell{
+color: green;
+position: absolute;
+margin-top: 4rem;
+margin-left: 20rem;
+
+}
+
+.make{
+margin-top: 158rem;
+margin-left: 27rem;
+position: absolute;
+
+}
+.else{
+margin-top: 156.5rem;
+margin-left: 28rem;
+position: absolute;
+}
+.school{
+margin-left: 44rem;
+margin-top: 158rem;
+height:17rem;
+width: 15rem;
+position: absolute;
+}
+
+.break{
+margin-top: 161rem;
+margin-left: 23rem;
+position: absolute;
+}
+
+.up{
+
+    margin-top: 163rem;
+    margin-left: 23rem;
+    position: absolute;
+}
+
+.patch{
+margin-top: 169rem;
+margin-left: 23rem;
+position: absolute;
+}
+
+.up2{
+
+    margin-top: 171rem;
+    margin-left: 23rem;
+    position: absolute;
+}
+.partner{
+background-color:rgba(8, 85, 69,0.818);
+position: absolute;
+margin-left: 2rem;
+height: 30rem;
+width: 76rem;
+margin-top: 185rem;
+
+}
+.could{
+margin-top: 2rem;
+margin-left: 3rem;
+position: absolute;
+color: aliceblue;
+}
+.should{
+margin-top: 21rem;
+margin-left: 3rem;
+position: absolute;
+color: aliceblue;
+
+}
+.camera{
+margin-top: 18rem;
+margin-left: 3rem;
+position: absolute;
+color: aliceblue;
+}
+
+.copy{
+margin-top: 203rem;
+margin-left:22rem;
+position: absolute;
+color:aliceblue;
+
+}
+.paste{
+margin-top: 206rem;
+margin-left: 22rem;
+position: absolute;
+color: aliceblue;
+}
+
+.copy2{
+margin-top: 203rem;
+margin-left:31rem;
+position: absolute;
+color:aliceblue;
+}
+.paste2{
+margin-top: 206rem;
+margin-left: 31rem;
+position: absolute;
+color:aliceblue;
+}
+.copy3{
+margin-top: 203rem;
+margin-left:38rem;
+position: absolute;
+color:aliceblue;
+}
+.paste3{
+margin-top: 206rem;
+margin-left: 38rem;
+position: absolute;
+color:aliceblue;
+}
+
+.copy4{
+margin-top: 203rem;
+margin-left:47rem;
+position: absolute;
+color: aliceblue;
+}
+.paste4{
+margin-top: 206rem;
+margin-left: 47rem;
+position: absolute;
+color:aliceblue;
+}
+
+.anu1{
+height:50px;
+width: 51px;
+margin-top:210rem;
+margin-left:5rem ;
+position: absolute;
+
+}
+.anu2{
+height:47px;
+width: 74px;
+margin-top:210rem;
+margin-left:7rem ;
+position: absolute;
+
+}
+.anu3{
+height:33px;
+width: 39px;
+margin-top:210.5rem ;
+margin-left: 11rem;
+position: absolute;
+
+}
+.anu4{
+height:68px;
+width: 60px;
+margin-top:209.5rem ;
+margin-left: 13.5rem;
+position: absolute;
+
+}
+.iam{
+height: 13rem;
+width:17rem;
+margin-left: -5rem;
+}
+
+.he{
+height: 14rem;
+width:13rem;
+margin-left: -1rem;
+}
+
+.she{
+height: 11rem;
+width:11rem;
+margin-left: 0rem;
+margin-top: 1rem;
+}
+
+.it{
+height: 15rem;
+width:16rem;
+margin-left: -3rem;
+}
+
+.they{
+height: 12rem;
+width:15rem;
+margin-left: -1rem;
+}
+
+.bg{
+height: 12rem;
+width:15rem;
+margin-left: -1rem;
+}
+.spaces{
+height: 12rem;
+width:15rem;
+margin-left: -1rem;
+}
+
+.button{
+margin-left: 65rem;
+position: absolute;
+margin-top: 54rem;
+height: 2rem;
+width: 9rem;
+border:none;
+background-color:gray;
+box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
